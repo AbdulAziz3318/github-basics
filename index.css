@@ -4,3 +4,10 @@
     font-size: 30px;
     font-weight: bold;
 }
+
+.button {
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 6px;
+}
