@@ -12,5 +12,4 @@ git remote add origin https://github.com/AbdulAziz3318/github-basics.git - conne
 
 git push -u origin main - upload files to guthub repo
 
-git checkout -b feature/add-navigation - create a new branch and switches to that branch
-
+git checkout -b feature/add-button - create a new branch and switches to that branch
