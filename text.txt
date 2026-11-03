@@ -1,0 +1,16 @@
+created two files index.html & index.css 
+
+git init - initialize git in this project 
+
+git add . - staging all files 
+
+git commit -m "Initial commit: create html and css files" - saving files permanently 
+
+git branch -M main - rename current branch to main branch
+
+git remote add origin https://github.com/AbdulAziz3318/github-basics.git - connecting local git repo to gihub repo 
+
+git push -u origin main - upload files to guthub repo
+
+git checkout -b feature/add-navigation - create a new branch and switches to that branch
+
